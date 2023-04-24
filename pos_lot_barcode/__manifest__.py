@@ -2,7 +2,7 @@
 # License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl)
 {
     "name": "POS Lot Barcode",
-    "summary": "Scan barcode to enter lot/serial numbers",
+    "summary": "Scan barcode to enter lot/serial numbers (testing)",
     "version": "16.0.1.0.0",
     "development_status": "Alpha",
     "category": "Sales/Point of Sale",

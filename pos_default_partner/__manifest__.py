@@ -3,7 +3,7 @@
 
 {
     "name": "Point Of Sale Default Partner",
-    "summary": "Add a default customer in pos order",
+    "summary": "Add a default customer in pos order (add testing)",
     "license": "AGPL-3",
     "version": "16.0.1.0.0",
     "author": "Akretion, FactorLibre, Odoo Community Association (OCA)",
